@@ -1,0 +1,16 @@
+[1mdiff --git a/newfile.tx b/newfile.tx[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/style.css b/style.css[m
+[1mindex da10f3e..e69de29 100644[m
+[1m--- a/style.css[m
+[1m+++ b/style.css[m
+[36m@@ -1 +0,0 @@[m
+[31m-this is created[m
+[1mdiff --git a/test1.txt b/test1.txt[m
+[1mindex 5b2863c..e69de29 100644[m
+[1m--- a/test1.txt[m
+[1m+++ b/test1.txt[m
+[36m@@ -1 +0,0 @@[m
+[31m-something created[m
+\ No newline at end of file[m
